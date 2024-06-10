@@ -1,0 +1,25 @@
+.contacts-list {
+   display: flex;
+   gap: 16px;
+   color: #0339a6;
+   padding: 16px;
+   background-color: #d9985f;
+   border-radius: 8px;
+}
+.contact {
+   padding: 8px;
+   border-radius: 4px;
+   background-color: #91b7d9ae;
+   font-size: 18px;
+}
+.contacts-list button {
+   padding: 4px;
+   font-size: 16px;
+   color: #0339a6;
+   background-color: #6a9ad9;
+   border-radius: 4px;
+   border: none;
+}
+.contacts-list button:hover {
+   cursor: pointer;
+}
